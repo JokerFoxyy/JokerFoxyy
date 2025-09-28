@@ -27,7 +27,7 @@
 | Projeto | Tecnologias | Descrição |
 | :--- | :--- | :--- |
 | **Logística API** | `Kotlin`, `Spring Boot`, `JPA/Hibernate`, `JWT` | API REST completa em desenvolvimento para gerenciamento de produtos e logística, utilizando Spring Security para autenticação JWT e testes unitários robustos com Mockito-Kotlin. **(Fixe este projeto!)** |
-| **[Nome de Outro Projeto Seu]** | `[Tech 1]`, `[Tech 2]` | [Breve descrição sobre a funcionalidade e o desafio técnico resolvido.] |
+
 
 ---
 
